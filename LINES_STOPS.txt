@@ -1,0 +1,304 @@
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (1, ['Eilat', 'Eilat', 'Jerusalem', 'Haifa', 'Beer-sheva', 'Beer-sheva', 'Jerusalem', 'Tel-Aviv', 'Holon', 'Holon', 'Haifa', 'Beer-sheva', 'Eilat', 'Beer-sheva', 'Holon', 'Jerusalem', 'Beer-sheva', 'Eilat', 'Jerusalem', 'Tel-Aviv', 'Beer-sheva', 'Beer-sheva', 'Beer-sheva', 'Holon', 'Jerusalem', 'Tel-Aviv', 'Eilat', 'Tel-Aviv', 'Holon', 'Holon', 'Haifa', 'Beer-sheva', 'Jerusalem', 'Tel-Aviv', 'Haifa', 'Eilat', 'Beer-sheva', 'Haifa', 'Jerusalem', 'Beer-sheva', 'Beer-sheva', 'Holon', 'Tel-Aviv', 'Eilat', 'Eilat', 'Beer-sheva', 'Eilat', 'Haifa', 'Haifa', 'Eilat', 'Jerusalem', 'Jerusalem', 'Beer-sheva', 'Jerusalem', 'Jerusalem', 'Beer-sheva', 'Holon', 'Holon', 'Beer-sheva', 'Jerusalem', 'Jerusalem', 'Jerusalem', 'Tel-Aviv', 'Holon', 'Tel-Aviv', 'Jerusalem', 'Eilat', 'Eilat', 'Jerusalem', 'Eilat', 'Holon', 'Jerusalem', 'Eilat', 'Eilat', 'Tel-Aviv', 'Haifa', 'Eilat', 'Eilat', 'Eilat', 'Jerusalem', 'Holon', 'Holon', 'Beer-sheva', 'Tel-Aviv', 'Eilat', 'Haifa', 'Eilat', 'Holon', 'Holon', 'Holon', 'Haifa', 'Holon', 'Holon', 'Jerusalem', 'Eilat', 'Jerusalem', 'Eilat', 'Tel-Aviv', 'Eilat', 'Eilat']);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (54, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (57, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (30, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (15, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (21, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (13, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (57, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (78, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (8, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (34, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (16, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (19, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (71, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (38, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (76, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (39, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (40, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (1, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (93, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (27, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (13, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (75, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (57, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (56, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (97, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (88, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (36, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (56, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (71, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (58, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (60, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (44, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (85, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (14, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (84, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (76, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (58, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (35, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (47, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (88, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (30, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (20, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (99, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (26, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (48, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (48, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (42, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (11, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (35, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (77, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (76, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (74, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (9, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (33, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (65, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (79, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (81, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (1, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (51, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (85, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (71, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (74, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (99, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (67, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (38, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (74, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (33, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (85, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (49, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (41, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (36, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (40, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (21, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (91, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (71, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (64, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (21, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (35, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (69, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (44, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (87, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (58, Holon);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (25, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (80, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (81, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (84, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (41, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (19, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (93, Eilat);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (96, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (88, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (88, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (47, Haifa);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (44, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (77, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (62, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (8, Beer-sheva);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (9, Tel-Aviv);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (58, Jerusalem);
+
+insert into YZADIK.LINES_STOPS (LINE_NUMBER, STATION_NAME)
+values (33, Tel-Aviv);
+
+commit;
